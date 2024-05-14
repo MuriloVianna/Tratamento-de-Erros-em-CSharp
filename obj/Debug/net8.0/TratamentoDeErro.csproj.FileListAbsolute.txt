@@ -1,0 +1,14 @@
+C:\dev\TratamentoDeErro\bin\Debug\net8.0\TratamentoDeErro.exe
+C:\dev\TratamentoDeErro\bin\Debug\net8.0\TratamentoDeErro.deps.json
+C:\dev\TratamentoDeErro\bin\Debug\net8.0\TratamentoDeErro.runtimeconfig.json
+C:\dev\TratamentoDeErro\bin\Debug\net8.0\TratamentoDeErro.dll
+C:\dev\TratamentoDeErro\bin\Debug\net8.0\TratamentoDeErro.pdb
+C:\dev\TratamentoDeErro\obj\Debug\net8.0\TratamentoDeErro.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TratamentoDeErro\obj\Debug\net8.0\TratamentoDeErro.AssemblyInfoInputs.cache
+C:\dev\TratamentoDeErro\obj\Debug\net8.0\TratamentoDeErro.AssemblyInfo.cs
+C:\dev\TratamentoDeErro\obj\Debug\net8.0\TratamentoDeErro.csproj.CoreCompileInputs.cache
+C:\dev\TratamentoDeErro\obj\Debug\net8.0\TratamentoDeErro.dll
+C:\dev\TratamentoDeErro\obj\Debug\net8.0\refint\TratamentoDeErro.dll
+C:\dev\TratamentoDeErro\obj\Debug\net8.0\TratamentoDeErro.pdb
+C:\dev\TratamentoDeErro\obj\Debug\net8.0\TratamentoDeErro.genruntimeconfig.cache
+C:\dev\TratamentoDeErro\obj\Debug\net8.0\ref\TratamentoDeErro.dll
